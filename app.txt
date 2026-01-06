@@ -1,0 +1,1 @@
+app is the intermediate platform between user and software
